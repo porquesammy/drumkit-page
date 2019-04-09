@@ -11,6 +11,7 @@ added click functions
 <br>
 <img src="https://i.gyazo.com/5616c60a90c18328e46c3369d25952b9.gif" alt="demo of keypresses on drum page" width="624"/>
 <br>
+<a href="https://codepen.io/porqueSammy/full/QoZxzJ">Working codepen demo</a>
 <br>
 -added favicon
 <br>
